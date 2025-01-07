@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3749b7cd-2055-42a4-860d-ee0f2f32a0be" name="Drive-1.0" url="http://10.147.19.63">
+        <fileTransfer host="10.147.19.63" port="1263" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="1263" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d314b4c1-72b9-4cd1-900a-a4681a8db719" name="Commit-1.0" url="http://10.147.19.63">
+        <fileTransfer host="10.147.19.63" port="1263" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="1263" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
